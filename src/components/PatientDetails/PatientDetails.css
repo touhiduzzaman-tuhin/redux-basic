@@ -1,0 +1,7 @@
+.patient-area{
+    border : 1px solid lightgray;
+    box-shadow: 10px 10px 40px gray;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+}
